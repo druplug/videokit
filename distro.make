@@ -31,5 +31,4 @@ projects[drupal][patch][1067470] = http://drupal.org/files/issues/managed_file_1
 
 projects[videokit][type] = profile
 projects[videokit][download][type] = git
-projects[videokit][download][url] = http://git.drupal.org/project/videokit.git
-projects[videokit][download][branch] = 7.x-1.x
+projects[videokit][download][url] = https://github.com/druplug/videokit.git
